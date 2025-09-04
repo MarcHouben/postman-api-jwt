@@ -8,8 +8,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["freeCodeCamp", "Authentication"],
   "author": "Orim Dominic Adah <orimdominic@gmail.com>",
   "license": "ISC",
-  "description": ""
+  "description": "Project repository for freeCodeCamp article on Postman scripts for authentication"
 }
