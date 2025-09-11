@@ -15,6 +15,7 @@ You do not need to install any dependencies with `npm install`. Only run the app
 Here are the API endpoints and how to use them
 
 ### Registration
+
 Register/Create a user.
 
 ```HTTP
@@ -28,6 +29,7 @@ Content-Type: application/json
 ```
 
 ### Authentication/Signing In
+
 Sign in to get authentication token
 
 ```HTTP
@@ -41,6 +43,7 @@ Content-Type: application/json
 ```
 
 ### Access
+
 Use authentication token for access
 
 ```HTTP
