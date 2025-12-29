@@ -1,6 +1,7 @@
 # freeCodeCamp-postman-api-jwt
 
 This is the codebase that accompanies the freeCodeCamp article on Simplifying your JWT Authentication Process with Postman Scripts.
+https://www.freecodecamp.org/news/how-to-use-postman-scripts/
 
 ## Requirements
 
